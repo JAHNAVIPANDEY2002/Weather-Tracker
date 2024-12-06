@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://images4.alphacoders.com/758/75886.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    font-weight: bolder;
+    margin-bottom: 5vw;
+}
+.container{
+    margin-top: 8vw;
+}
+#cityname{
+    border-radius: 1vw;
+    border-style: solid;
+    border-color: blue;
+    color: blue;
+}
+button{
+    height: 2vw;
+    width: 5vw;
+}
+#temperature{
+    background-color: white;
+    color: black;
+    height: 20vw;
+    width: 30vw;
+    margin-top: 2vw;
+    text-align: center ;
+}
